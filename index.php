@@ -10,7 +10,7 @@
         <img src="https://img.kyodonews.net/english/public/images/posts/999dc7ea8c73f32baa5361320e39c19a/photo_l.jpg">
         <img src="https://i.ytimg.com/vi/1Ne1hqOXKKI/maxresdefault.jpg>\">
         <br>
-        <a href="https://www.facebook.com/">Facebook<a/>
+        <a href="https://www.facebook.com/">Facebook</a>
         <a href="https://www.youtube.com/">Youtube Link</a>
 
     </body>
